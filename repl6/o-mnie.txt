@@ -1,0 +1,6 @@
+Hubert Kozłowski
+ludzie
+<<<<<<< HEAD
+=======
+czasopismo
+>>>>>>> zad3
